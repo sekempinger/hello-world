@@ -2,6 +2,7 @@
 Test repository to learn GitHub
 
 **This is my test read me file**
+
 *trying out different markdown features* 
 
 ---
@@ -13,6 +14,6 @@ Test repository to learn GitHub
 3. This is a third item in the list 
 
 
--This is a list, but not ordered 
--This is part of that list
--So is this
+- This is a list, but not ordered 
+- This is part of that list
+- So is this
